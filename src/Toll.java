@@ -137,6 +137,9 @@ public static void main(String arg[]){
 				System.out.println("\nYour tax is: "+(175)+"\nYour remaining Money= "+(note5_175-175));
 			}
 			break;
+		default:
+			System.out.println("Scanning Error!! Please Wait for  Re-Scanning");
+		 	
 	}//close nested switch statements
 	
 	}//case 1 statements end
